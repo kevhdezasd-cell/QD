@@ -1,2 +1,2 @@
 scipy
-matplotlib.pyplot
+matplotlib
